@@ -1,0 +1,12 @@
+fx_version 'cerulean'
+game 'gta5'
+
+files {
+    'stream/vehicle_name.yft',
+    'stream/vehicle_name.ytd',
+    'stream/vehicle_name_hi.yft',
+    'stream/vehicle_name+hi.ytd',
+    -- Add any other required files like meta data
+}
+
+data_file 'VEHICLE_METADATA_FILE' 'data/vehicles.meta'
